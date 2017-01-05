@@ -1,0 +1,14 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: json-schema
+Upstream-Contact: https://github.com/kriszyp/json-schema/issues
+Source: https://github.com/kriszyp/json-schema#readme
+
+Files: *
+Copyright: 2017 Kris Zyp
+License: AFLv2.1
+
+Files: debian/*
+Copyright: 2017 Amarpreet Arora <aroaak15.it@coep.ac.in>
+License: AFLv2.1
+
+License: FIX_ME specify a license, see: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/#license-specification

@@ -17,7 +17,7 @@ Architecture: all
 Depends:
  ${misc:Depends}
  , nodejs
-Description: JSON Schema validation and specifications
- FIX_ME long description
- .
- Node.js is an event-based server-side JavaScript engine.
+Description: JSON Schema validation and specifications.
+ JSON Schema is a repository for the JSON Schema specification, reference
+ schemas and a CommonJS implementation of JSON Schema (not the only JavaScript
+ implementation of JSON Schema, JSV is another excellent JavaScript validator).

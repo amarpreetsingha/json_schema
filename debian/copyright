@@ -4,7 +4,7 @@ Upstream-Contact: https://github.com/kriszyp/json-schema/issues
 Source: https://github.com/kriszyp/json-schema#readme
 
 Files: *
-Copyright: 2017 Kris Zyp
+Copyright: Kris Zyp
 License: AFLv2.1
 
 Files: debian/*
